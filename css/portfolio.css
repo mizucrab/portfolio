@@ -1,0 +1,595 @@
+@font-face {
+    font-family: myfont;
+    src: url(../font/PPNeueMontrealMono-Medium.otf);
+  }
+  @media only screen and (width: 1440px) {
+    body{
+        width: 99%;
+        height: 1080px;
+        background-color:#7743DB;
+        font-family: myfont;
+    }
+    html{
+        scroll-behavior: smooth;
+    }
+    .page{
+        margin-left: 1%;
+        margin-right: 1%;
+        width: 98%;
+        height: 90%;
+     
+    }
+    #two{
+    
+    }
+    #three{
+    
+    }
+    #four{
+      
+    }
+    .choice{
+        top: 20%;
+        position: relative;
+    }
+    .nav
+    {
+        width: 80%;
+        height:50%;
+       margin-left: 13%;
+        margin-right: 8%;
+        font-size: 3.125;
+        font-family: myfont;
+    }
+    
+    #choice1{
+        width: 32%;
+        height: 60%;
+         color: aliceblue;
+        float: left;
+        
+       
+     }
+       
+     #choice2{
+        width: 32%;
+        height: 60%;
+       color: aliceblue;
+        margin: 0 auto;
+        padding-bottom: 1%;
+    
+    }
+    #choice3{
+        width: 20%;
+        height: 60%;
+        float: right;
+        margin-right: 10%;
+        color: white;
+        padding-bottom: 1%;
+       
+       }
+     #choice1:hover
+       {
+        background-color: white;
+        color:#FFA500;
+       }
+       #choice2:hover
+       {
+        background-color: white;
+        color:#FFA500;
+       }
+       #choice3:hover
+       {
+        background-color: white;
+        color:#FFA500;
+       }
+    #homeimg{
+        width: 100%;
+        
+    }
+    #projectimg{ 
+       width: 80%;
+       position: relative;
+       top: -2%;
+       left: 10%;
+     
+       margin-bottom: -20%;
+    }
+    #contactsimg{
+       width: 100%;
+       margin-left: 0%;
+       margin-top: 20%;
+       position: relative;
+     
+       margin-bottom:-9% ;
+    }
+    .label{
+        font-size:140%;
+        font-family: myfont;
+        width: 100%;
+        text-align: center;
+    }
+    .intro{
+        width: 100%;
+        height: 50%;
+        position:absolute;
+         color: white;
+        font-size: 130%;
+        text-align: center;
+    
+        margin-top: 10%;
+     
+    }
+  }
+
+  @media only screen and (max-width: 425px) {
+    body{
+        width: 99%;
+        height: 1080px;
+        background-color:#7743DB;
+        font-family: myfont;
+    }
+    .page{
+        margin-left: 1%;
+        margin-right: 1%;
+        width: 98%;
+        height: 90%;
+     
+    }
+    #two{
+    
+    }
+    #three{
+    
+    }
+    #four{
+      
+    }
+    .choice{
+        top: 20%;
+        position: relative;
+    }
+    .nav
+    {
+        width: 80%;
+        height:50%;
+       margin-left: 13%;
+        margin-right: 8%;
+        font-size: 3.125;
+        font-family: myfont;
+    }
+    
+    #choice1{
+        width: 32%;
+        height: 60%;
+         color: aliceblue;
+        float: left;
+        
+       
+     }
+       
+     #choice2{
+        width: 32%;
+        height: 60%;
+       color: aliceblue;
+        margin: 0 auto;
+        padding-bottom: 1%;
+    
+    }
+    #choice3{
+        width: 20%;
+        height: 60%;
+        float: right;
+        margin-right: 10%;
+        color: white;
+        padding-bottom: 1%;
+       
+       }
+     #choice1:hover
+       {
+        background-color: white;
+        color:#FFA500;
+       }
+       #choice2:hover
+       {
+        background-color: white;
+        color:#FFA500;
+       }
+       #choice3:hover
+       {
+        background-color: white;
+        color:#FFA500;
+       }
+    #homeimg{
+        width: 100%;
+        
+    }
+    #projectimg{ 
+       width: 80%;
+       position: relative;
+       top: -2%;
+       left: 10%;
+     
+       margin-bottom: -20%;
+    }
+    #contactsimg{
+       width: 100%;
+       margin-left: 0%;
+       margin-top: 20%;
+       position: relative;
+     
+       margin-bottom:-9% ;
+    }
+    .label{
+        font-size:140%;
+        font-family: myfont;
+        width: 100%;
+        text-align: center;
+    }
+    .intro{
+        width: 100%;
+        height: 50%;
+        margin-top: -50%;
+
+        position:absolute;
+         color: white;
+        font-size: 130%;
+        text-align: center;
+     
+    }
+    
+  }
+  @media only screen and (max-width: 768px) {
+  html{
+    scroll-behavior: smooth;
+  }
+body{
+    width:99%;
+    height:1080px;
+    background-color:#7743DB;
+    font-family: myfont;
+}
+.page{
+    margin-left: 1%;
+    margin-right: 1%;
+    width: 98%;
+    height: 90%;
+ 
+}
+#two{
+
+}
+#three{
+
+}
+#four{
+  
+}
+.choice{
+    top: 20%;
+    position: relative;
+}
+.nav
+{
+    width: 80%;
+    height:50%;
+   margin-left: 13%;
+    margin-right: 8%;
+    font-size: 3.125;
+    font-family: myfont;
+}
+
+#choice1{
+    width: 32%;
+    height: 60%;
+     color: aliceblue;
+    float: left;
+    
+   
+ }
+   
+ #choice2{
+    width: 32%;
+    height: 60%;
+   color: aliceblue;
+    margin: 0 auto;
+    padding-bottom: 1%;
+
+}
+#choice3{
+    width: 20%;
+    height: 60%;
+    float: right;
+    margin-right: 10%;
+    color: white;
+    padding-bottom: 1%;
+   
+   }
+ #choice1:hover
+   {
+    background-color: white;
+    color:#FFA500;
+   }
+   #choice2:hover
+   {
+    background-color: white;
+    color:#FFA500;
+   }
+   #choice3:hover
+   {
+    background-color: white;
+    color:#FFA500;
+   }
+#homeimg{
+    width: 100%;
+    
+}
+#projectimg{ 
+   width: 80%;
+   position: relative;
+   top: -2%;
+   left: 10%;
+ 
+   margin-bottom: -20%;
+}
+#contactsimg{
+   width: 100%;
+   margin-left: 0%;
+   margin-top: 20%;
+   position: relative;
+ 
+   margin-bottom:-9% ;
+}
+.label{
+    font-size:140%;
+    font-family: myfont;
+    width: 100%;
+    text-align: center;
+}
+.intro{
+    width: 100%;
+    height: 50%;
+    position:relative;
+     color: white;
+    font-size: 130%;
+    text-align: center;
+    margin-top: -30%;
+ 
+}
+  }
+  @media only screen and (width: 1920px) {
+    body{
+        width: 99%;
+        height: 1080px;
+        background-color:#7743DB;
+        font-family: myfont;
+    }
+    html{
+        scroll-behavior: smooth;
+      }
+    .page{
+        margin-left: 1%;
+        margin-right: 1%;
+        width: 98%;
+        height: 90%;
+     
+    }
+    #two{
+    
+    }
+    #three{
+    
+    }
+    #four{
+      
+    }
+    .choice{
+        top: 20%;
+        position: relative;
+    }
+    .nav
+    {
+        width: 80%;
+        height:50%;
+       margin-left: 13%;
+        margin-right: 8%;
+        font-size: 3.125;
+        font-family: myfont;
+    }
+    
+    #choice1{
+        width: 32%;
+        height: 60%;
+         color: aliceblue;
+        float: left;
+        
+       
+     }
+       
+     #choice2{
+        width: 32%;
+        height: 60%;
+       color: aliceblue;
+        margin: 0 auto;
+        padding-bottom: 1%;
+    
+    }
+    #choice3{
+        width: 20%;
+        height: 60%;
+        float: right;
+        margin-right: 10%;
+        color: white;
+        padding-bottom: 1%;
+       
+       }
+     #choice1:hover
+       {
+        background-color: white;
+        color:#FFA500;
+       }
+       #choice2:hover
+       {
+        background-color: white;
+        color:#FFA500;
+       }
+       #choice3:hover
+       {
+        background-color: white;
+        color:#FFA500;
+       }
+    #homeimg{
+        width: 100%;
+        
+    }
+    #projectimg{ 
+       width: 80%;
+       position: relative;
+       top: -2%;
+       left: 10%;
+     
+       margin-bottom: -20%;
+    }
+    #contactsimg{
+       width: 100%;
+       margin-left: 0%;
+       margin-top: 20%;
+       position: relative;
+     
+       margin-bottom:-9% ;
+    }
+    .label{
+        font-size:140%;
+        font-family: myfont;
+        width: 100%;
+        text-align: center;
+    }
+    .intro{
+        width: 100%;
+        height: 50%;
+        position:relative;
+         color: white;
+        font-size: 130%;
+        text-align: center;
+        margin-top: 2%;
+     
+    }
+}
+@media only screen and (width: 1024px) {
+    html{
+      scroll-behavior: smooth;
+    }
+  body{
+      width:99%;
+      height:1080px;
+      background-color:#7743DB;
+      font-family: myfont;
+  }
+  .page{
+      margin-left: 1%;
+      margin-right: 1%;
+      width: 98%;
+      height: 90%;
+   
+  }
+  #two{
+  
+  }
+  #three{
+  
+  }
+  #four{
+    
+  }
+  .choice{
+      top: 20%;
+      position: relative;
+  }
+  .nav
+  {
+      width: 80%;
+      height:50%;
+     margin-left: 13%;
+      margin-right: 8%;
+      font-size: 3.125;
+      font-family: myfont;
+  }
+  
+  #choice1{
+      width: 32%;
+      height: 60%;
+       color: aliceblue;
+      float: left;
+      
+     
+   }
+     
+   #choice2{
+      width: 32%;
+      height: 60%;
+     color: aliceblue;
+      margin: 0 auto;
+      padding-bottom: 1%;
+  
+  }
+  #choice3{
+      width: 20%;
+      height: 60%;
+      float: right;
+      margin-right: 10%;
+      color: white;
+      padding-bottom: 1%;
+     
+     }
+   #choice1:hover
+     {
+      background-color: white;
+      color:#FFA500;
+     }
+     #choice2:hover
+     {
+      background-color: white;
+      color:#FFA500;
+     }
+     #choice3:hover
+     {
+      background-color: white;
+      color:#FFA500;
+     }
+  #homeimg{
+      width: 100%;
+      
+  }
+  #projectimg{ 
+     width: 80%;
+     position: relative;
+     top: -2%;
+     left: 10%;
+   
+     margin-bottom: -20%;
+  }
+  #contactsimg{
+     width: 100%;
+     margin-left: 0%;
+     margin-top: 20%;
+     position: relative;
+   
+     margin-bottom:-9% ;
+  }
+  .label{
+      font-size:140%;
+      font-family: myfont;
+      width: 100%;
+      text-align: center;
+  }
+  .intro{
+      width: 100%;
+      height: 50%;
+      position:relative;
+       color: white;
+      font-size: 130%;
+      text-align: center;
+      margin-top: 2%;
+   
+  }
+    }

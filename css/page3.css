@@ -1,0 +1,243 @@
+@media only screen and (max-width: 1024px) {
+    #next{
+        margin-left: 71%;
+    }
+    #back{
+        margin-left: -20%;
+    }
+    .innerslide{
+        width: 80%;
+        height: 80%;
+        margin-top: 5%;
+        margin-left: 10%;
+        position: absolute;
+        overflow: hidden;
+        
+    }
+    .slides{
+        display: flex;
+    
+    }
+    .btnss{
+        font-size:450% ;
+        color: white;
+        background-color: #7743DB;
+        border: 0px;
+        position: absolute;
+        margin-top: 20%;
+    }
+    .format{
+        width: 100%;
+        height:120%;
+    }
+    
+    #titleslider{
+        width: 90%;
+        text-align: center;
+        justify-content: center;
+        font-size: 200%;
+        margin-left: 5%;
+        color:white;
+        position: absolute;
+    }
+    #slider{
+        width: 99%;
+      
+        
+    }
+    
+  }
+  @media only screen and (width: 1920px) {  
+.innerslide{
+    width: 80%;
+    height: 80%;
+    margin-top: 5%;
+    margin-left: 10%;
+    position: absolute;
+    overflow: hidden;
+    
+}
+.slides{
+    display: flex;
+
+}
+.btnss{
+    font-size:450% ;
+    color: white;
+    background-color: #7743DB;
+    border: 0px;
+    position: absolute;
+    margin-top: 20%;
+}
+.format{
+    width: 100%;
+    height:120%;
+}
+
+#next{
+    margin-left: 70%;
+}
+#back{
+    margin-left: -15%;
+}
+#titleslider{
+    width: 90%;
+    text-align: center;
+    justify-content: center;
+    font-size: 200%;
+    margin-left: 5%;
+    color:white;
+    position: absolute;
+}
+#slider{
+    width: 99%;
+  
+    
+}
+  }
+  @media only screen and (width: 1440px) {  
+    .innerslide{
+        width: 80%;
+        height: 80%;
+        margin-top: 5%;
+        margin-left: 10%;
+        position: absolute;
+        overflow: hidden;
+        
+    }
+    .slides{
+        display: flex;
+    
+    }
+    .btnss{
+        font-size:450% ;
+        color: white;
+        background-color: #7743DB;
+        border: 0px;
+        position: absolute;
+        margin-top: 20%;
+    }
+    .format{
+        width: 100%;
+        height:120%;
+    }
+    
+    #next{
+        margin-left: 70%;
+    }
+    #back{
+        margin-left: -15%;
+    }
+    #titleslider{
+        width: 90%;
+        text-align: center;
+        justify-content: center;
+        font-size: 200%;
+        margin-left: 5%;
+        color:white;
+        position: absolute;
+    }
+    #slider{
+        width: 99%;
+      
+        
+    }
+      }
+@media only screen and (max-width: 768px) {
+        #next{
+            margin-left: 71%;
+        }
+        #back{
+            margin-left: -20%;
+        }
+        .innerslide{
+            width: 80%;
+            height: 80%;
+            margin-top: 5%;
+            margin-left: 10%;
+            position: absolute;
+            overflow: hidden;
+            
+        }
+        .slides{
+            display: flex;
+        
+        }
+        .btnss{
+            font-size:450% ;
+            color: white;
+            background-color: #7743DB;
+            border: 0px;
+            position: absolute;
+            margin-top: 20%;
+        }
+        .format{
+            width: 100%;
+            height:120%;
+        }
+        
+        #titleslider{
+            width: 90%;
+            text-align: center;
+            justify-content: center;
+            font-size: 200%;
+            margin-left: 5%;
+            color:white;
+            position: absolute;
+        }
+        #slider{
+            width: 99%;
+          
+            
+        }
+        
+      }   
+ @media only screen and (max-width: 425px) {
+        #next{
+            margin-left: 60%;
+        }
+        #back{
+            margin-left: 30%;
+        }
+        .innerslide{
+            width: 80%;
+            height: 80%;
+            margin-top: 10%;
+            margin-left: 10%;
+            position: absolute;
+            overflow: hidden;
+            
+        }
+        .slides{
+            display: flex;
+        
+        }
+        .btnss{
+            font-size:250% ;
+            color: white;
+            background-color: #7743DB;
+            border: 0px;
+            position: absolute;
+            margin-top: 55%;
+        }
+        .format{
+            width: 100%;
+            height:120%;
+        }
+        
+        #titleslider{
+            width: 90%;
+            text-align: center;
+            justify-content: center;
+            font-size: 200%;
+            margin-left: 5%;
+            color:white;
+            position: absolute;
+        }
+        #slider{
+            width: 99%;
+          
+            
+        }
+        
+      }  
